@@ -49,7 +49,7 @@ let init = {
 //CODE HERE
 let clone = {
     description: ' Create a local copy of the code.',
-    code: 'git clone'
+    code: 'git clone <url for repository>'
 }
 
 //////////////////PROBLEM 5////////////////////
@@ -84,7 +84,7 @@ let add = {
 //CODE HERE
 let commit = {
     description: 'Captures the state of project at current time.',
-    code: 'git commit'
+    code: "git commit -m ' '"
 }
 
 //////////////////PROBLEM 8////////////////////
